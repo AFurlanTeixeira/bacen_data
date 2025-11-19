@@ -1,4 +1,4 @@
-Período;Deposito_Vista;Deposito_Poupanca;Deposito_Prazo
+Periodo;Deposito_Vista;Deposito_Poupanca;Deposito_Prazo
 01/01/2022;86 650  ;154 715  ;241 444  
 01/02/2022;71 732  ;155 440  ;236 024  
 01/03/2022;62 217  ;154 582  ;240 181  
@@ -35,3 +35,4 @@ Período;Deposito_Vista;Deposito_Poupanca;Deposito_Prazo
 01/10/2024;61 043  ;195 170  ;419 493  
 01/11/2024;62 423  ;195 475  ;427 388  
 01/12/2024;63 787  ;196 762  ;433 144  
+
